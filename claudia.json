@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "amovadatest01-executor",
+    "name": "amovadatest01",
+    "region": "eu-west-2"
+  },
+  "api": {
+    "id": "jojen5dxdj",
+    "module": "app"
+  }
+}
